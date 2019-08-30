@@ -1,0 +1,16 @@
+#board{
+    background:aqua;
+}
+
+rect{
+    fill: brown;
+    stroke: blue;
+    stroke-width: 5px;
+}
+
+
+button.up{
+width:200px;
+height:200px;
+
+}
