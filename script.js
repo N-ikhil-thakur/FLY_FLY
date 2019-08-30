@@ -7,7 +7,7 @@ var interval;
 function run(){
     // x=z;
     ym++;
-x+=2;
+x+=1;
 document.querySelector(".box").style.transform=`translatey(${x}px)`;
 if(x==800){
     x=0;
